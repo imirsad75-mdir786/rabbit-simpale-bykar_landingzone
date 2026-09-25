@@ -53,4 +53,4 @@ npm start
 ### 🤝 Contribute Kaise Karein?
 Agar aapko lagta hai ki aap is maut ke kuein mein thoda aur kachra code daal sakte hain, toh **Pull Request** bhejiyega mat, seedhe bhagwan ko yaad kijiyega!
 
-Crafted with 💔 and ☠️ by **[Apna Naam Yahan Likho]**
+ **[bhaiya practice ky liye ]**
